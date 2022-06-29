@@ -1,2 +1,4 @@
 step 1 make the pizza 
 step 2 deliver the pizza
+step 3 get paid
+step 4 take more calls
